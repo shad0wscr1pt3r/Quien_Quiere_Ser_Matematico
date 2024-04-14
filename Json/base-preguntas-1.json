@@ -1,0 +1,11 @@
+[
+    {
+        "categoria":"Matematicas",
+        "pregunta":"1+1",
+        "respuesta":"2",
+        "incorrecta1":"3",
+        "incorrecta2":"4",
+        "incorrecta3":"5",
+        "ObjectFit":"cover"
+        }
+]

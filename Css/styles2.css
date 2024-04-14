@@ -1,0 +1,96 @@
+* {
+    transition: all 1s;
+    color: white;
+}
+
+body {
+    background: black;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: calibri;
+    font-size: 120%;
+}
+
+.contenedor {
+    width: 50vw;
+    height: 97vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.encabezado {
+    position: relative;
+    background: black;
+    border: 0.1vw solid white;
+    box-shadow: inset 0 0 50px #FF69B4, 0 0 50px #FF69B4;
+    min-width: 3vw;
+    width: 100%;
+    max-width: 600px;
+    padding: 0;
+}
+
+.categoria {
+    opacity: 0.3;
+    text-align: left;
+}
+
+.pregunta {
+    padding: 10px;
+}
+
+.btn {
+    border: 2px solid white;
+    box-shadow: inset 0 0 25px #FF69B4, 0 0 25px #FF69B4;
+    background: black;
+    width: 70%;
+    max-width: 660px;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
+
+.numero {
+    position: absolute;
+    opacity: 0.3;
+    top: 10px;
+    right: 10px;
+}
+
+.puntaje {
+    padding: 10px;
+    color: white;
+}
+
+.button-5050 {
+    background-color: black;
+    border: 1px solid white;
+    box-shadow: inset 0 0 20px #FF69B4, 0 0 20px #FF69B4;
+    position: absolute;
+    height: 40px;
+    top: 45px;
+    left: 45px;
+    cursor: pointer;
+}
+
+.Doble-o-Nada {
+    background-color: black;
+    border: 1px solid white;
+    box-shadow: inset 0 0 20px #FF69B4, 0 0 20px #FF69B4;
+    height: 40px;
+    top: 45px;
+    left: 45px;
+    cursor: pointer;
+}
+
+.disabled {
+opacity: 0.5;
+cursor: pointer;
+}

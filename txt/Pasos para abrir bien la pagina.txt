@@ -1,0 +1,8 @@
+pasos para abrir bien la pagina:
+
+1. Pasar toda la carpeta a vsc (Visual Studio Code).
+2. Instalar la extension titulada "Live Servers" o "Live Preview", ambos sirven para lo mismo.
+3. Despues de instalar la Extension en vsc y pasar toda la carpeta a vsc, en la esquina inferior isquierda aparece un apartado que dice "Go Live", esto es un puerto que conecta el javascript con el json y con el html al mismo tiempo.
+4. No se debe de cambiar el nombre de ningun archivo, ya que dañaria el programa.
+
+**IMPORTANTE NO CERRAR VSC MIENTRAS SE ESTÁ EN EL DESARROLLO DE EL JUEGO, ESTO HACE QUE AL REINICIAR LA PAGINA, NO CARGE**.

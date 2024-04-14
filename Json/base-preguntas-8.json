@@ -1,0 +1,20 @@
+[
+    {
+        "categoria": "Matematicas",
+        "pregunta": "2x+34b+42xy",
+        "respuesta": "2x(1+21y)+34b",
+        "incorrecta1": "2x(2+42b)+34y",
+        "incorrecta2": "2x(1+42xy)+34b",
+        "incorrecta3": "x(2x+34b+42y)",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Matematicas",
+        "pregunta": "x²+5x+6",
+        "respuesta": "x(x + 5) + 6",
+        "incorrecta1": "(x+5)(x+6)",
+        "incorrecta2": "x²(1+5x) + 6",
+        "incorrecta3": "x(x+5y) + 6",
+        "objectFit": "cover"
+    }
+]
