@@ -151,7 +151,6 @@ function oprimir_btn(i) {
 
     // Actualiza el color de otros elementos en la interfaz
     select_id("50-50-button").style.background = "#00bb2d";
-    select_id("Doble-o-Nada").style.background = "#00bb2d";
   } else {
     btn_correspondiente[i].style.background = "#F00";
     btn_correspondiente[i].style.border ="2px solid #F00";
@@ -159,7 +158,6 @@ function oprimir_btn(i) {
 
     // Actualiza el color de otros elementos en la interfaz
     select_id("50-50-button").style.background = "#F00";
-    select_id("Doble-o-Nada").style.background = "#F00";
   }
   
   // Limpia y prepara la pantalla para la siguiente pregunta después de un tiempo
@@ -174,7 +172,6 @@ function oprimir_btn(i) {
     select_id("btn4").style.backgroundColor = "black";
 
     select_id("50-50-button").style.background = "black";
-    select_id("Doble-o-Nada").style.background = "black";
   }, 3000);
 }
 
@@ -229,11 +226,6 @@ select_id("btn4").addEventListener('click', function () {
 select_id("50-50-button").addEventListener('click', function () {
   // Lógica para la función de "50-50"
   ocultarDosRespuestas();
-});
-
-select_id("Doble-o-Nada").addEventListener('click', function () {
-  // Lógica para la función "Doble-o-Nada"
-  escogerPreguntaAleatoria();
 });
 
 // Función para reiniciar la interfaz y cargar una nueva pregunta

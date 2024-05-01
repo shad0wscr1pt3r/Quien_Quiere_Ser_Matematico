@@ -184,9 +184,6 @@ select_id("50-50-button").addEventListener('click', function () {
   ocultarDosRespuestas();
 });
 
-select_id("Doble-o-Nada").addEventListener('click', function () {
-  escogerPreguntaAleatoria();
-});
 
 function reiniciar() {
   for (const btn of btn_correspondiente) {

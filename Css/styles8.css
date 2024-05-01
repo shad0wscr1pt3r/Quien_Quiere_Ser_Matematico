@@ -80,17 +80,6 @@ body {
     cursor: pointer;
 }
 
-.Doble-o-Nada {
-    background-color: black;
-    border: 1px solid white;
-    box-shadow: inset 0 0 20px #0000FF, 0 0 20px #0000FF;
-    position: absolute;
-    height: 40px;
-    top: 105px;
-    left: 45px;
-    cursor: pointer;
-}
-
 .disabled {
 opacity: 0.5;
 cursor: pointer;

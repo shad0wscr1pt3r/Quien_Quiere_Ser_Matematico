@@ -18,34 +18,4 @@
     "incorrecta3":"",
     "ObjectFit":"cover"
     }
-
-    {
-    "categoria":"Geometria",
-    "pregunta":"",
-    "respuesta":"",
-    "incorrecta1":"",
-    "incorrecta2":"",
-    "incorrecta3":"",
-    "ObjectFit":"cover"
-    }
-
-    {
-    "categoria":"Estadistica",
-    "pregunta":"",
-    "respuesta":"",
-    "incorrecta1":"",
-    "incorrecta2":"",
-    "incorrecta3":"",
-    "ObjectFit":"cover"
-    }
-
-    {
-    "categoria":"Logica",
-    "pregunta":"",
-    "respuesta":"",
-    "incorrecta1":"",
-    "incorrecta2":"",
-    "incorrecta3":"",
-    "ObjectFit":"cover"
-    }
 ]
