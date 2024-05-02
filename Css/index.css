@@ -30,3 +30,10 @@ button {
 button:hover {
     background-color: #6643b5;
 }
+
+.Derechos{
+    background-color: black;
+    padding: 15px 10px;
+    text-align: center;
+    color: white;
+}
