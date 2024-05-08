@@ -39,11 +39,11 @@ Si quieres colaborar en el desarrollo continuo, mejora o arreglo de bug en el ju
 
 ## Contacto
 
-Correo: juanantoniogutierrezhoyos0911@gmail.com
-Telefono: +57 350 860 6175
-Discord: shad0w_scr1pt3r
-Porfolio: https://porfolio-dev1.netlify.app/
-Instagram: https://www.instagram.com/guti.juan0/
+- Correo: juanantoniogutierrezhoyos0911@gmail.com
+- Telefono: +57 350 860 6175
+- Discord: shad0w_scr1pt3r
+- Porfolio: https://porfolio-dev1.netlify.app/
+- Instagram: https://www.instagram.com/guti.juan0/
 
 ## Autor
 
