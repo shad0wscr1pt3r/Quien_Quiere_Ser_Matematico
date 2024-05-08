@@ -6,7 +6,7 @@ let base_preguntas;
 let interprete_bp;
 
 window.onload = function () {
-  base_preguntas = readText("Base-preguntas/base-preguntas-2.json");
+  base_preguntas = readText("Json/base-preguntas-2.json");
   interprete_bp = JSON.parse(base_preguntas);
   escogerPreguntaAleatoria();
 };
