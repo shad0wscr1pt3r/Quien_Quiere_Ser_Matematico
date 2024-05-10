@@ -37,6 +37,10 @@ El juego está desarrollado utilizando las siguientes tecnologías:
 
 Si quieres colaborar en el desarrollo continuo, mejora o arreglo de bug en el juego puedes crear una Issue.
 
+## Hosting
+
+Yo, Juan Gutierrez estoy buscando a alguien que me pueda proporcionar o ayudar con un hosting con buen rendimiento, ademas de un equipo de trabajo que actualize las preguntas constantemente.
+
 ## Contacto
 
 - Correo: juanantoniogutierrezhoyos0911@gmail.com
