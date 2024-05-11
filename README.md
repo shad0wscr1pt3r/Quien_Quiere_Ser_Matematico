@@ -22,6 +22,10 @@ El juego está desarrollado utilizando las siguientes tecnologías:
 - JavaScript: Lógica y funcionalidad del juego.
 - Json: Base de Preguntas
 
+## Logica
+
+La logica de JavaScript comentada está en el archivo `Index8.js`. No lo hice con ningun otro simplemente pq me dio flojera
+
 ## Cómo Jugar
 
 1. Abrir con extensión "Live Server" o "Live Preview"
